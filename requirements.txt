@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]==22.8
+deep-translator==1.11.4
+asyncpg==0.30.0
+aiosqlite==0.22.1
+python-dotenv==1.0.1
